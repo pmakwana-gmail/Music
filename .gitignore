@@ -56,3 +56,8 @@ core/css/
 core/loader/
 .stencil/
 angular/build/
+
+platforms/
+plugins/
+www/
+resources/
